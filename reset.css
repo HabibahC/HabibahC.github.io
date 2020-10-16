@@ -1,0 +1,7 @@
+html, body, head, nav, h1,h2,image, header, figure, ul, caption, thead, table, tbody, tfoot, article, button{
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+vertical-align: baseline;
+}
